@@ -4,6 +4,6 @@ My project submissions regarding the Generative AI nanodegree program can be fou
 
 Projects:
 * [Project 1 - Apply LightWeight Fine Tunning to a Foundation Model](#generative-ai-nanodegree/nanodegree/project-1)
-* Project 2 - Build your own Custom Chatbot
+* [Project 2 - Build your own Custom Chatbot](#generative-ai-nanodegree/nanodegree/project-2)
 * Project 3 - AI Phot Editing with Inpainting
 * Project 4 - Personalized Real Estate Agent
